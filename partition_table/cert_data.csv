@@ -1,0 +1,4 @@
+key,type,encoding,value
+cert_data,namespace,,
+prvtkey,file,string,./main/certs/prvtkey.pem
+servercert,file,string,./main/certs/servercert.pem
